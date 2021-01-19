@@ -12,8 +12,7 @@ var rope2;
 var rope3;
 var rope4;
 var rope5;
-var bob6;
-var bobR;
+var bob6
 
 function preload()
 {
